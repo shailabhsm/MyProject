@@ -1,5 +1,6 @@
 body {
     font-family: "Open Sans";
+    margin: 0;
 }
 
 a {
@@ -44,5 +45,8 @@ header nav ul li {
 
 header nav ul li a {
     border: 1px solid white;
+    border-radius: 5px;
     display: block;
+    margin: 5px;
+    padding: 5px;
 }
