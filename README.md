@@ -1,2 +1,2 @@
 # MyProject
-MyProject WebsiteDemo
+My-Project-Website-Demo
